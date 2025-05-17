@@ -18,7 +18,7 @@ Implementation using Python code.
 Import the necessary modules.
 
 ### Step 5:
-Define a custom request handler.
+define a custom request handler.
 
 ### Step 6:
 Start an HTTP server on a specific port.
